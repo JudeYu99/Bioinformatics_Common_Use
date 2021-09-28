@@ -1,2 +1,2 @@
-# Bioinformatics_Common_Use
+# Bioinformatics_Codes
 Commonly used codes for bioinformatics analysis.
