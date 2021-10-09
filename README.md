@@ -1,2 +1,5 @@
 # Bioinformatics_Codes
-## Commonly used codes for bioinformatics analysis.
+This repository is delicated to commonly used codes for bioinformatics analysis.
+
+
+* Differentially Expressed Genes (DEGs) & Heatmap Plotting
