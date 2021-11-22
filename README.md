@@ -1,4 +1,4 @@
-# Bioinformatics_Codes
+# Bioinformatics Codes
 This repository is delicated to commonly used codes for bioinformatics analysis.
 
 
