@@ -1,6 +1,5 @@
 # Get PPIN input from String DB (Homo sapiens)
 # Annotation file from ensemble
-read.table("mart_export.txt", header = TRUE, na.strings = "", sep = ",")
 
 ENSP <- read.table("mart_export.txt", header = TRUE, sep = ",")
 ENSP_filt <- ENSP
