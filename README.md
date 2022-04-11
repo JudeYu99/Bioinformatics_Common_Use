@@ -9,3 +9,4 @@ This repository is delicated to commonly used codes for bioinformatics analysis.
 * Enrichment Analysis (GO & KEGG)
 * ChIP-Seq Analysis
 * Virtual Screening with Autodock Vina
+* Convert gene names from ensembl IDs downloaded from String DB
